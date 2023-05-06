@@ -1,8 +1,10 @@
 This repository contains source code for the simulation studies presented in the paper
 
 Unconstrained feedback controller design using Q-learning from noisy process data
+
 Pratyush Kumar, James B. Rawlings
-Under review, Computers and Chemical Engineering
+
+Under review, Computers and Chemical Engineering, 2023
 
 To reproduce the results, run the following python scrips in order:- 
 
