@@ -1,0 +1,28 @@
+This repository contains code for the paper: 
+
+"Unconstrained feedback controller design using Q-learning from noisy process data"
+Pratyush Kumar, James B. Rawlings
+Currently under review for a publication in Computers and Chemical Engineering
+
+To reproduce the results presented in the paper, run the following scripts in order. 
+
+% Perform calculations.
+hvac_parameters.py 
+hvac_sfeed_optlqg.py 
+hvac_sfeed_lspi_kqw.py
+hvac_sfeed_lspi_uqw.py
+hvac_sfeed_lspi_regl.py
+hvac_sfeed_sysid.py
+hvac_ofeed_optlqg.py 
+hvac_ofeed_lspi.py 
+hvac_ofeed_sysid.py 
+
+% Make the plots. 
+hvac_sfeed_traindata_plots.py
+hvac_sfeed_clanalysis_plots.py 
+hvac_sfeed_dataeff_plots.py
+hvac_ofeed_traindata_plots.py 
+hvac_ofeed_clanalysis_plots.py 
+hvac_ofeed_dataeff_plots.py
+
+Feel free to contact Pratyush Kumar (pratyushkumar211@gmail.com) for any questions regarding the source code.
