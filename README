@@ -2,7 +2,7 @@ This repository contains code for the paper:
 
 "Unconstrained feedback controller design using Q-learning from noisy process data"
 Pratyush Kumar, James B. Rawlings
-Currently under review for a publication in Computers and Chemical Engineering
+Published in Computers and Chemical Engineering, 2023.
 
 To reproduce the results presented in the paper, run the following scripts in order. 
 
